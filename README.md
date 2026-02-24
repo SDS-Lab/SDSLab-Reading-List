@@ -1,7 +1,5 @@
 # Reading-List
 
-* _Dec. 8, 2025_ [ESPFormer: Doubly-Stochastic Attention with Expected Sliced Transport Plans](https://arxiv.org/pdf/2502.07962?) and [LOTFormer: Doubly-Stochastic Linear Attention via Low-Rank Optimal Transport](https://arxiv.org/pdf/2509.23436), (Fanmeng Wang)
-
 * _Dec. 1, 2025_ [RFG: Test-Time Scaling for Diffusion Large Language Model Reasoning with Reward-Free Guidance](https://arxiv.org/pdf/2509.25604), (Haotian Liu)
 
 * _Dec. 15, 2025_ [Latent Collaboration in Multi-Agent Systems](https://arxiv.org/pdf/2511.20639), (Yicheng Tao, [Slides](slides/pre_2025_12_15.pdf))
