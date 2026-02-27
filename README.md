@@ -6,9 +6,9 @@
 
 * _Dec. 15, 2025_ [Latent Collaboration in Multi-Agent Systems](https://arxiv.org/pdf/2511.20639), (Yicheng Tao, [Slides](slides/pre_2025_12_15.pdf))
 
-* _Nov. 17, 2025_ [Uni-LoRA: One Vector is All You Need](https://arxiv.org/pdf/2506.00799), (Yuxin Wu)
+* _Dec. 08, 2025_ [Muon Outperforms Adam in Tail-End Associative Memory Learning](https://arxiv.org/pdf/2509.26030), (Angxiao Yue, [Slides](slides/pre_2025_12_08.pdf))
 
-* _Nov. 10, 2025_ [Muon Outperforms Adam in Tail-End Associative Memory Learning](https://arxiv.org/pdf/2509.26030), (Angxiao Yue, [Slides](slides/pre_2025_12_08.pdf))
+* _Dec. 01, 2025_ [Uni-LoRA: One Vector is All You Need](https://arxiv.org/pdf/2506.00799), (Yuxin Wu, [Slides](slides/pre_2025_12_01.pdf))
 
 * _Nov. 3, 2025_ [Unrolled Graph Neural Networks for Constrained Optimization](https://arxiv.org/pdf/2509.17156) and [Graph Signal Generative Diffusion Models](https://arxiv.org/pdf/2509.17250), (Minjie Cheng, [Slides](slides/pre_2025_11_03.pdf))
 
