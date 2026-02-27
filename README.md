@@ -1,7 +1,7 @@
 # Reading-List
 
-* _Dec. 29, 2025_ [Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach](https://arxiv.org/abs/2502.05171) and [Hybrid Latent Reasoning via Reinforcement Learning](https://arxiv.org/abs/2505.18454), (Haotian Liu,  [Slides](slides/pre_2025_12_29_1.pdf) and (slides/pre_2025_12_29_2.pdf))
-* 
+* _Dec. 29, 2025_ [Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach](https://arxiv.org/abs/2502.05171) and [Hybrid Latent Reasoning via Reinforcement Learning](https://arxiv.org/abs/2505.18454), (Haotian Liu,  [Slides](slides/pre_2025_12_29_1.pdf) and [Slides](slides/pre_2025_12_29_2.pdf))
+  
 * _Dec. 22, 2025_ [RFG: Test-Time Scaling for Diffusion Large Language Model Reasoning with Reward-Free Guidance](https://arxiv.org/pdf/2509.25604), (Haotian Liu,  [Slides](slides/pre_2025_12_22.pdf))
 
 * _Dec. 15, 2025_ [Latent Collaboration in Multi-Agent Systems](https://arxiv.org/pdf/2511.20639), (Yicheng Tao, [Slides](slides/pre_2025_12_15.pdf))
