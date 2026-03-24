@@ -12,7 +12,7 @@
 
 * _Mar. 30, 2026_ [MACROGUIDE: Topological Guidance for Macrocycle Generation](https://arxiv.org/pdf/2602.14977), (Yitian Wang)
 
-* _Mar. 23, 2026_ [Training-Free Group Relative Policy Optimization](https://arxiv.org/pdf/2510.08191?), (Haotian Liu)
+* _Mar. 23, 2026_ [Training-Free Group Relative Policy Optimization](https://arxiv.org/pdf/2510.08191?), (Haotian Liu, [Slide](slides/pre_2026_3_23.pdfs))
 
 * _Mar. 16, 2026_ [G-Merging: Graph Models Merging for Parameter-Efficient Multi-Task Knowledge Consolidation](https://openreview.net/pdf?id=FoTtvLkkfU), (Yuxin Wu)
 
