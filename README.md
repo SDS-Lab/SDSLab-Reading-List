@@ -2,7 +2,7 @@
 
 * _May. 11, 2026_ [The Geometry of Noise: Why Diffusion Models Don’t Need Noise Conditioning](https://arxiv.org/pdf/2602.18428), (Fanmeng Wang)
 
-* _Apr. 27, 2026_ [The path not taken: RLVR provably learns off the principals](https://arxiv.org/pdf/2511.08567), (Yicheng Tao)
+* _Apr. 27, 2026_ [The path not taken: RLVR provably learns off the principals](https://arxiv.org/pdf/2511.08567), (Yicheng Tao, [Slide](slides/pre_2026_3_30.pdf))
 
 * _Apr. 20, 2026_ [E2Former-V2: On-the-Fly Equivariant Attention with Linear Activation Memory](https://arxiv.org/pdf/2601.16622), (Fanmeng Wang)
 
