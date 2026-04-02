@@ -2,15 +2,13 @@
 
 * _May. 11, 2026_ [The Geometry of Noise: Why Diffusion Models Don’t Need Noise Conditioning](https://arxiv.org/pdf/2602.18428), (Fanmeng Wang)
 
-* _Apr. 27, 2026_ [The path not taken: RLVR provably learns off the principals](https://arxiv.org/pdf/2511.08567), (Yicheng Tao, [Slide](slides/pre_2026_3_30.pdf))
+* _Apr. 27, 2026_ [MACROGUIDE: Topological Guidance for Macrocycle Generation](https://arxiv.org/pdf/2602.14977), (Yitian Wang)
 
-* _Apr. 20, 2026_ [E2Former-V2: On-the-Fly Equivariant Attention with Linear Activation Memory](https://arxiv.org/pdf/2601.16622), (Fanmeng Wang)
+* _Apr. 20, 2026_ [LoRA and Privacy: When Random Projections Help (and When They Don’t)](https://arxiv.org/pdf/2601.21719), (Shen Yuan)
 
-* _Apr. 13, 2026_ [LoRA and Privacy: When Random Projections Help (and When They Don’t)](https://arxiv.org/pdf/2601.21719), (Shen Yuan)
+* _Apr. 13, 2026_ [YuriiFormer: A Suite of Nesterov-Accelerated Transformers](https://arxiv.org/pdf/2601.23236), (Minjie Cheng)
 
-* _Apr. 6, 2026_ [YuriiFormer: A Suite of Nesterov-Accelerated Transformers](https://arxiv.org/pdf/2601.23236), (Minjie Cheng)
-
-* _Mar. 30, 2026_ [MACROGUIDE: Topological Guidance for Macrocycle Generation](https://arxiv.org/pdf/2602.14977), (Yitian Wang)
+* _Mar. 30, 2026_ [The path not taken: RLVR provably learns off the principals](https://arxiv.org/pdf/2511.08567), (Yicheng Tao, [Slide](slides/pre_2026_3_30.pdf))
 
 * _Mar. 23, 2026_ [Training-Free Group Relative Policy Optimization](https://arxiv.org/pdf/2510.08191?), (Haotian Liu, [Slide](slides/pre_2026_3_23.pdfs))
 
