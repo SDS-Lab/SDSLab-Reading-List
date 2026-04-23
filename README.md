@@ -4,7 +4,7 @@
 
 * _Apr. 27, 2026_ [MACROGUIDE: Topological Guidance for Macrocycle Generation](https://arxiv.org/pdf/2602.14977), (Yitian Wang)
 
-* _Apr. 20, 2026_ [LoRA and Privacy: When Random Projections Help (and When They Don’t)](https://arxiv.org/pdf/2601.21719), (Shen Yuan)
+* _Apr. 20, 2026_ [LoRA and Privacy: When Random Projections Help (and When They Don’t)](https://arxiv.org/pdf/2601.21719), (Shen Yuan, [Slide](slides/pre_2026_04_20.pdf))
 
 * _Apr. 13, 2026_ [YuriiFormer: A Suite of Nesterov-Accelerated Transformers](https://arxiv.org/pdf/2601.23236), (Minjie Cheng)
 
