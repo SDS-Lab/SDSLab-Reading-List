@@ -1,7 +1,5 @@
 # Reading-List
 
-* _May. 18, 2026_ [The Geometry of Noise: Why Diffusion Models Don’t Need Noise Conditioning](https://arxiv.org/pdf/2602.18428), (Fanmeng Wang)
-
 * _May. 11, 2026_ [MACROGUIDE: Topological Guidance for Macrocycle Generation](https://arxiv.org/pdf/2602.14977), (Yitian Wang)
 
 * _Apr. 20, 2026_ [LoRA and Privacy: When Random Projections Help (and When They Don’t)](https://arxiv.org/pdf/2601.21719), (Shen Yuan, [Slides](slides/pre_2026_04_20.pdf))
