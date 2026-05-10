@@ -4,7 +4,7 @@
 
 * _Apr. 20, 2026_ [LoRA and Privacy: When Random Projections Help (and When They Don’t)](https://arxiv.org/pdf/2601.21719), (Shen Yuan, [Slides](slides/pre_2026_04_20.pdf))
 
-* _Apr. 13, 2026_ [YuriiFormer: A Suite of Nesterov-Accelerated Transformers](https://arxiv.org/pdf/2601.23236), (Minjie Cheng)
+* _Apr. 13, 2026_ [Generative Modeling of Molecular Dynamics Trajectories](https://arxiv.org/abs/2409.17808), (Minjie Cheng, [Slides](slides/pre_2026_04_13.pdf))
 
 * _Mar. 30, 2026_ [The path not taken: RLVR provably learns off the principals](https://arxiv.org/pdf/2511.08567), (Yicheng Tao, [Slides](slides/pre_2026_3_30.pdf))
 
